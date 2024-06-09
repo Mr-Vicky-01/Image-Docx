@@ -13,8 +13,7 @@ This project is an Image-to-Document converter application built using the Gemin
 
 ## Demo
 
-### try this app
-[Link](https://huggingface.co/spaces/Mr-Vicky-01/Docx-Creator)
+Try this app: [Link](https://huggingface.co/spaces/Mr-Vicky-01/Docx-Creator)
 
 ## Getting Started
 
